@@ -1,7 +1,8 @@
-<div>
+<div align=center>
   <p>I'm interested in Micro Service Architecture</p>
   <p>I'm currently learning Docker</p>
   <p>I'm currently learning Spring Boot</p>
+  <hr>
 </div>	
 <div align=center>
 	<h3>Tech Stack</h3>
