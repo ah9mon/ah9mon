@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=Pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Intellij%20Idea-000000?style=flat&logo=IntellijIdea&logoColor=white" />
+  <hr>
 </div>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah9mon&layout=compact"><br><br>
