@@ -45,7 +45,7 @@
 </div>
 <div align="center">
 <a href="https://github.com/doongjun/commitmon">
-    <img alt="commitmon" src="https://commitmon.me/adventure?username=ah9mon&theme=desert&userFetchType=mutual" width="800px" />
+    <img alt="commitmon" src="https://commitmon.me/adventure?username=ah9mon&theme=desert&userFetchType=mutual" width="700px" />
   </a>
 </div>
 
