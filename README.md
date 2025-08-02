@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C#-3178C6?style=flat&logo=C#&logoColor=white"/>
 </div>
 <div align=center>
   <p>FrameWork</p>
@@ -24,7 +23,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Serverless-000000?style=flat&logo=Serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=Serverless&logoColor=white" />
 </div>
 <div align=center>
   <p>ETC</p>
@@ -33,6 +32,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white"/>
   <img src="https://img.shields.io/badge/AmazonLambda-FF9900?style=flat&logo=AmazonLambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AmazonCloudFront-EF2D5E?style=flat&logo=AmazonCloudFront&logoColor=white"/>
   <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat&logo=AmazonS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/AmazonRDS-569A31?style=flat&logo=AmazonRDS&logoColor=white"/>
   <img src="https://img.shields.io/badge/AmazonDynamoDB-569A31?style=flat&logo=AmazonDynamoDB&logoColor=white"/>
