@@ -30,13 +30,13 @@
 </div>
 <div align=center>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AmazonLambda-FF9900?style=flat&logo=AmazonLambda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AmazonCloudFront-EF2D5E?style=flat&logo=AmazonCloudFront&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat&logo=AmazonS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AmazonRDS-569A31?style=flat&logo=AmazonRDS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AmazonDynamoDB-569A31?style=flat&logo=AmazonDynamoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AmazonECR-FF9900?style=flat&logo=AmazonECR&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWSEC2-FF9900?style=flat&logo=AWSEC2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWSLambda-FF9900?style=flat&logo=AWSLambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWSCloudFront-EF2D5E?style=flat&logo=AWSCloudFront&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWSS3-569A31?style=flat&logo=AWSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWSRDS-569A31?style=flat&logo=AWSRDS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWSDynamoDB-569A31?style=flat&logo=AWSDynamoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWSECR-FF9900?style=flat&logo=AWSECR&logoColor=white"/>
   <img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat&logo=GithubActions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
   <hr>
